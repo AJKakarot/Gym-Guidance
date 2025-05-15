@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full Body Workout Fundamentals",
+      "slug": "full-body-workout-fundamentals",
+      "description": "Learn the basics of full-body workouts designed specifically for beginners.",
+      "price": 99.99,
+      "instructor": "John Strong",
+      "isFeatured": true,
+      "image": "/courses/full-body.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Beginner's Guide to Cardio",
+      "slug": "beginners-guide-to-cardio",
+      "description": "Kickstart your fitness journey with easy-to-follow cardio routines and tips.",
+      "price": 109.99,
+      "instructor": "Jane Fitwell",
+      "isFeatured": false,
+      "image": "/courses/cardio.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Strength Training Basics",
+      "slug": "strength-training-basics",
+      "description": "Build strength safely and effectively with this beginner-friendly training program.",
+      "price": 119.99,
+      "instructor": "Emily Iron",
+      "isFeatured": true,
+      "image": "/courses/strength.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Home Workouts for Starters",
+      "slug": "home-workouts-for-starters",
+      "description": "No gym? No problem! Get fit at home with these simple and effective routines.",
+      "price": 129.99,
+      "instructor": "Mike Blaze",
+      "isFeatured": false,
+      "image": "/courses/home-workout.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Flexibility and Mobility Training",
+      "slug": "flexibility-mobility-training",
+      "description": "Improve your flexibility and joint mobility to prevent injuries and move better.",
+      "price": 139.99,
+      "instructor": "Chris Stretch",
+      "isFeatured": false,
+      "image": "/courses/flexibility.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Gym Equipment 101",
+      "slug": "gym-equipment-101",
+      "description": "Learn how to use common gym equipment properly and safely for maximum results.",
+      "price": 149.99,
+      "instructor": "Alex Steel",
+      "isFeatured": true,
+      "image": "/courses/equipment.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Nutrition for Beginners",
+      "slug": "nutrition-for-beginners",
+      "description": "Understand the basics of fitness nutrition to fuel your workouts and recovery.",
+      "price": 159.99,
+      "instructor": "Samantha Health",
+      "isFeatured": false,
+      "image": "/courses/nutrition.jpg"
+    },
+    {
+      "id": 8,
+      "title": "HIIT for Newcomers",
+      "slug": "hiit-for-newcomers",
+      "description": "Burn fat fast with High Intensity Interval Training tailored for beginners.",
+      "price": 169.99,
+      "instructor": "Luke Burn",
+      "isFeatured": true,
+      "image": "/courses/hiit.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fitness Mindset and Motivation",
+      "slug": "fitness-mindset-motivation",
+      "description": "Stay motivated and build a consistent gym routine with mental fitness tools.",
+      "price": 179.99,
+      "instructor": "Grace Focus",
+      "isFeatured": false,
+      "image": "/courses/mindset.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Core Strength for Beginners",
+      "slug": "core-strength-for-beginners",
+      "description": "Strengthen your core with beginner-friendly exercises to improve balance and posture.",
+      "price": 189.99,
+      "instructor": "Ethan Core",
+      "isFeatured": true,
+      "image": "/courses/core.jpg"
+    }
+  ]
+}
