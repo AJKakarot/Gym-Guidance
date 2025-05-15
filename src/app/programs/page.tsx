@@ -3,6 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { BackgroundBeams } from '@/components/ui/background-beams';
+import Image from 'next/image';
 
 const programs = [
   {
@@ -49,7 +50,7 @@ export default function ProgramsPage() {
               href={program.href}
               className="flex flex-col bg-white dark:bg-gray-800 rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300"
             >
-              <img
+              <Image
                 src={program.image}
                 alt={program.title}
                 className="w-full h-48 sm:h-56 md:h-64 object-cover"
