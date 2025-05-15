@@ -65,12 +65,12 @@ export default function FatLossWorkoutPage() {
         </h1>
 
         <ul className="text-neutral-300 list-disc list-inside space-y-2 text-base md:text-lg mb-10">
-          <li>✔️ Warm-up: 5–10 minutes of brisk walking or jogging</li>
+          <li>✔️ Warm-up: 10 minutes of brisk walking or jogging</li>
           <li>✔️ Jump rope: 3 sets of 1 minute</li>
           <li>✔️ Burpees: 3 sets of 10 reps</li>
           <li>✔️ Mountain climbers: 3 sets of 30 seconds</li>
           <li>✔️ Bodyweight squats: 3 sets of 20 reps</li>
-          <li>✔️ Cool down: 5–10 minutes of stretching</li>
+          <li>✔️ Cool down: 10 minutes of stretching</li>
         </ul>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
@@ -96,7 +96,7 @@ export default function FatLossWorkoutPage() {
         <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md max-w-xl mx-auto">
           <h2 className="text-2xl font-bold mb-2 text-black dark:text-white">Contact Us</h2>
           <p className="text-neutral-500 text-sm mb-4">
-            We’re here to help with any questions about our workouts, programs, or fitness events. Reach out and let us support you on your fat loss journey.
+            We&apos;re here to help with any questions about our workouts, programs, or fitness events. Reach out and let us support you on your fat loss journey.
           </p>
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
             <input

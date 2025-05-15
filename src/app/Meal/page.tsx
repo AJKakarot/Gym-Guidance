@@ -94,7 +94,7 @@ export default function MealPlanPage() {
         <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md max-w-xl mx-auto">
           <h2 className="text-2xl font-bold mb-2 text-black dark:text-white">Contact Us</h2>
           <p className="text-neutral-500 text-sm mb-4">
-            We’re here to help with any questions about our meal plans, nutrition tips, or diet programs. Reach out and let us support you on your fitness journey.
+            We&apos;re here to help with any questions about our meal plans, nutrition tips, or diet programs. Reach out and let us support you on your fitness journey.
           </p>
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
             <input

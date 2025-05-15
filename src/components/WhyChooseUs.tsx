@@ -32,7 +32,7 @@ const gymContent = [
   {
     title: 'Endless Growth Opportunities',
     description:
-      'Whether you’re a beginner or building on past progress, our platform offers a wide range of workouts, challenges, and resources to keep you engaged and evolving every step of the way.',
+      'Whether you are a beginner or building on past progress, our platform offers a wide range of workouts, challenges, and resources to keep you engaged and evolving every step of the way.',
   },
 ];
 

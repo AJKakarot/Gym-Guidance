@@ -10,7 +10,7 @@ const gymSchoolTestimonials = [
   },
   {
     quote:
-      "The support and motivation I’ve received here are incredible. I've improved my strength and consistency thanks to their holistic training plans.",
+      "The support and motivation I have received here are incredible. I've improved my strength and consistency thanks to their holistic training plans.",
     name: 'Samantha Lee',
     title: 'Strength Training Enthusiast',
   },

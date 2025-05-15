@@ -94,7 +94,7 @@ export default function StrengthTrainingPage() {
         <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md max-w-xl mx-auto">
           <h2 className="text-2xl font-bold mb-2 text-black dark:text-white">Contact Us</h2>
           <p className="text-neutral-500 text-sm mb-4">
-            We’re here to support your strength training goals. Contact us with any questions or guidance you need for your fitness plan.
+            We&apos;re here to support your strength training goals. Contact us with any questions or guidance you need for your fitness plan.
           </p>
           <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
             <input
