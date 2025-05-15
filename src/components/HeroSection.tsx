@@ -20,7 +20,7 @@ function HeroSection() {
 <p
   className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
 >
-  Join our beginner-friendly fitness programs and kickstart your journey to a healthier, stronger you. Whether you're just starting or getting back on track, we have got the perfect workout plan for you.
+  Join our beginner-friendly fitness programs and kickstart your journey to a healthier, stronger you. Whether you are just starting or getting back on track, we have got the perfect workout plan for you.
 </p>
 
             <div className="mt-4">
